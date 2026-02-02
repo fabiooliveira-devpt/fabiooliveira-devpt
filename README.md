@@ -1,16 +1,26 @@
-## Hi there 👋
+### 🖥️ Full-Stack Software Engineering
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,php,laravel,mysql,linux,nginx,maven" height="60" alt="Backend" />
+</div>
 
-<!--
-**fabiooliveira-devpt/fabiooliveira-devpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Frontend, 3D & Mobile Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,vue,threejs,bootstrap,html,css,flutter" height="60" alt="Frontend" />
+</div>
 
-Here are some ideas to get you started:
+> **Specialized Expertise:** OutSystems (Certified), Prism/MVVM, Xamarin, and Infragistics UI.
+>
+<hr>
+⚡ About Me
+I am a Software Engineer with a passion for building scalable, high-performance applications and immersive digital experiences. With a strong foundation in Full-Stack Development, I bridge the gap between robust backend architecture and interactive frontend interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Architectural Focus: I specialize in MVC and MVVM patterns to ensure code maintainability and scalability.
+
+3D & Innovation: I enjoy pushing the boundaries of the web using Three.js and Babylon.js for 3D visualization.
+
+Enterprise Experience: Proficient in the .NET and Java ecosystems, as well as high-productivity platforms like OutSystems.
+
+System Mindset: Experienced in managing Linux environments and optimizing server performance with Nginx.
+
+📫 How to reach me: <a href="www.linkedin.com/in/fabiooliveira-devpt">LinkedIn</a>
+
