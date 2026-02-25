@@ -48,5 +48,5 @@ I am a Senior Software Engineer focused on building high-performance application
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** <a href="https://www.linkedin.com/in/fabiooliveira-devpt" target="_blank">linkedin.com/in/fabiooliveira-devpt</a>
+* **LinkedIn:** [linkedin.com/in/fabiooliveira-devpt](https://www.linkedin.com/in/fabiooliveira-devpt)
 * **GitHub:** Follow me for my latest public contributions and experiments.
